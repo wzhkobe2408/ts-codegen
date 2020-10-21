@@ -3,7 +3,6 @@
 automate repeatdev process
 
 ## Usage
-------
 ```bash
 $ npm install -g ts-codegen
 $ ts-codegen COMMAND
@@ -17,13 +16,11 @@ USAGE
 ```
 
 ## Commands
---------
 * ts-codegen new-lib
 * ts-codegen remove-lib
 * ts-codegen help [COMMAND]
 
 ## `ts-codegen new-lib`
-
 create new lib
 
 ```bash
@@ -32,7 +29,6 @@ USAGE
 ```
 
 ## `ts-codegen remove-lib`
-
 remove lib
 
 ```bash
